@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'f0recast' target in the 'f0recast' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

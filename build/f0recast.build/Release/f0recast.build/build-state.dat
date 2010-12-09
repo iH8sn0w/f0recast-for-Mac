@@ -1,0 +1,846 @@
+Tf0recast
+v7
+r0
+t291171179.695721
+cCheck dependencies
+cProcessInfoPlistFile /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Info.plist f0recast-Info.plist
+cCopyStringsFile /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Ari/dev/f0recast/English.lproj/MainMenu.xib
+cCpResource build/Release/f0recast.app/Contents/Resources/f0recast.icns f0recast.icns
+cProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-duyrbsdkvmrxszbgrtpbuefbfuby/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ayefzuxsngktzuftbgezbnamsfen/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-boogvqhdanpqqmgtoqycncdwlcni/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/main.o /Users/Ari/dev/f0recast/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recastAppDelegate.o /Users/Ari/dev/f0recast/f0recastAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast normal x86_64
+cCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/i386/main.o /Users/Ari/dev/f0recast/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recastAppDelegate.o /Users/Ari/dev/f0recast/f0recastAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast normal i386
+cCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/main.o /Users/Ari/dev/f0recast/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recastAppDelegate.o /Users/Ari/dev/f0recast/f0recastAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast normal ppc
+cCreateUniversalBinary /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/Ari/dev/f0recast/build/Release/f0recast.app.dSYM /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast
+cPBXCp build/Release/f0recast.app/Contents/Frameworks/BWToolkitFramework.framework BWToolkitFramework.framework
+cTouch /Users/Ari/dev/f0recast/build/Release/f0recast.app
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks/MobileDevice.framework/MobileDevice
+c000000004A0DDE7900000000000219D8
+t1242422905
+s137688
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000486499690000000000000942
+t1214552425
+s2370
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks/MobileDevice.framework/MobileDevice
+c000000004B760CEF000000000002D3FC
+t1266027759
+s185340
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/mach/error.h
+c0000000047E8839D0000000000000F22
+t1206420381
+s3874
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B8C13A400000000000000EE
+t1267471268
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework
+c000000004B9BCED000000000000000CC
+t1268502224
+s204
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/BWToolkitFramework
+c000000004B596EAB00000000000E843C
+t1264152235
+s951356
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWAnchoredButton.h
+c000000004B596EA40000000000000177
+t1264152228
+s375
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWAnchoredButtonBar.h
+c000000004B596EA400000000000002A0
+t1264152228
+s672
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWAnchoredButtonCell.h
+c000000004B596EA400000000000000F2
+t1264152228
+s242
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWAnchoredPopUpButton.h
+c000000004B596EA40000000000000186
+t1264152228
+s390
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWAnchoredPopUpButtonCell.h
+c000000004B596EA40000000000000100
+t1264152228
+s256
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWGradientBox.h
+c000000004B596EA400000000000002A7
+t1264152228
+s679
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWHyperlinkButton.h
+c000000004B596EA4000000000000012E
+t1264152228
+s302
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWHyperlinkButtonCell.h
+c000000004B596EA400000000000000F2
+t1264152228
+s242
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWInsetTextField.h
+c000000004B596EA400000000000000E8
+t1264152228
+s232
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWSelectableToolbar.h
+c000000004B596EA400000000000004C2
+t1264152228
+s1218
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWSheetController.h
+c000000004B596EA400000000000003C3
+t1264152228
+s963
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWSplitView.h
+c000000004B596EA400000000000005F0
+t1264152228
+s1520
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWStyledTextField.h
+c000000004B596EA400000000000002A3
+t1264152228
+s675
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWStyledTextFieldCell.h
+c000000004B596EA40000000000000239
+t1264152228
+s569
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTexturedSlider.h
+c000000004B596EA400000000000001EF
+t1264152228
+s495
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTexturedSliderCell.h
+c000000004B596EA4000000000000012F
+t1264152228
+s303
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTokenAttachmentCell.h
+c000000004B596EA4000000000000011E
+t1264152228
+s286
+i<Cocoa/Cocoa.h>
+i"NSTokenAttachmentCell.h"
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTokenField.h
+c000000004B596EA400000000000000E1
+t1264152228
+s225
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTokenFieldCell.h
+c000000004B596EA400000000000000ED
+t1264152228
+s237
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWToolbarItem.h
+c000000004B596EA40000000000000100
+t1264152228
+s256
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWToolbarShowColorsItem.h
+c000000004B596EA400000000000000F8
+t1264152228
+s248
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWToolbarShowFontsItem.h
+c000000004B596EA400000000000000F7
+t1264152228
+s247
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWToolkitFramework.h
+c000000004B596EA400000000000005B8
+t1264152228
+s1464
+i"BWAnchoredButton.h"
+i"BWAnchoredButtonBar.h"
+i"BWAnchoredButtonCell.h"
+i"BWAnchoredPopUpButton.h"
+i"BWAnchoredPopUpButtonCell.h"
+i"BWGradientBox.h"
+i"BWHyperlinkButton.h"
+i"BWHyperlinkButtonCell.h"
+i"BWInsetTextField.h"
+i"BWSelectableToolbar.h"
+i"BWSheetController.h"
+i"BWSplitView.h"
+i"BWStyledTextField.h"
+i"BWStyledTextFieldCell.h"
+i"BWTexturedSlider.h"
+i"BWTexturedSliderCell.h"
+i"BWTokenAttachmentCell.h"
+i"BWTokenField.h"
+i"BWTokenFieldCell.h"
+i"BWToolbarItem.h"
+i"BWToolbarShowColorsItem.h"
+i"BWToolbarShowFontsItem.h"
+i"BWTransparentButton.h"
+i"BWTransparentButtonCell.h"
+i"BWTransparentCheckbox.h"
+i"BWTransparentCheckboxCell.h"
+i"BWTransparentPopUpButton.h"
+i"BWTransparentPopUpButtonCell.h"
+i"BWTransparentScroller.h"
+i"BWTransparentScrollView.h"
+i"BWTransparentSlider.h"
+i"BWTransparentSliderCell.h"
+i"BWTransparentTableView.h"
+i"BWTransparentTableViewCell.h"
+i"BWTransparentTextFieldCell.h"
+i"BWUnanchoredButton.h"
+i"BWUnanchoredButtonCell.h"
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentButton.h
+c000000004B596EA400000000000000EB
+t1264152228
+s235
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentButtonCell.h
+c000000004B596EA40000000000000117
+t1264152228
+s279
+i<Cocoa/Cocoa.h>
+i"BWTransparentButton.h"
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentCheckbox.h
+c000000004B596EA400000000000000EF
+t1264152228
+s239
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentCheckboxCell.h
+c000000004B596EA4000000000000011D
+t1264152228
+s285
+i<Cocoa/Cocoa.h>
+i"BWTransparentCheckbox.h"
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentPopUpButton.h
+c000000004B596EA400000000000000FB
+t1264152228
+s251
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentPopUpButtonCell.h
+c000000004B596EA40000000000000106
+t1264152228
+s262
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentScrollView.h
+c000000004B596EA400000000000000F7
+t1264152228
+s247
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentScroller.h
+c000000004B596EA40000000000000102
+t1264152228
+s258
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentSlider.h
+c000000004B596EA400000000000000EB
+t1264152228
+s235
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentSliderCell.h
+c000000004B596EA40000000000000107
+t1264152228
+s263
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentTableView.h
+c000000004B596EA400000000000000F4
+t1264152228
+s244
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentTableViewCell.h
+c000000004B596EA4000000000000011C
+t1264152228
+s284
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWTransparentTextFieldCell.h
+c000000004B596EA40000000000000100
+t1264152228
+s256
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWUnanchoredButton.h
+c000000004B596EA40000000000000102
+t1264152228
+s258
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/BWUnanchoredButtonCell.h
+c000000004B596EA4000000000000011E
+t1264152228
+s286
+i<Cocoa/Cocoa.h>
+i"BWAnchoredButtonCell.h"
+
+N/Users/Ari/dev/f0recast/BWToolkitFramework.framework/Headers/NSTokenAttachmentCell.h
+c000000004B596EA40000000000000699
+t1264152228
+s1689
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/English.lproj/InfoPlist.strings
+c000000004B9BC8FC000000000000002D
+t1268500732
+s45
+
+N/Users/Ari/dev/f0recast/English.lproj/MainMenu.xib
+c000000004BAAB3E30000000000037AA4
+t1269478371
+s228004
+
+N/Users/Ari/dev/f0recast/MobileDevice.h
+c000000004B9BD1BF000000000000314C
+t1268502975
+s12620
+i<CoreFoundation.h>
+i<CoreFoundation/CoreFoundation.h>
+i<mach/error.h>
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app
+t1269478379
+s102
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app.dSYM
+t1269475916
+s102
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Frameworks/BWToolkitFramework.framework
+t1268502694
+s204
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Info.plist
+t1269303716
+s940
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast
+t1269475916
+s68336
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/PkgInfo
+t1269303716
+s8
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1268501945
+s92
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources/English.lproj/MainMenu.nib
+t1269478379
+s45583
+
+N/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources/f0recast.icns
+t1269303716
+s48796
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast
+t1269475910
+s19768
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast.LinkFileList
+c000000004B9BCDB600000000000000CD
+t1268501942
+s205
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recastAppDelegate.o
+t1269475908
+s27764
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/main.o
+t1268502694
+s4812
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast
+t1269475916
+s19184
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast.LinkFileList
+c000000004B9BCDB600000000000000CB
+t1268501942
+s203
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recastAppDelegate.o
+t1269475916
+s29104
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/main.o
+t1268502694
+s4844
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast
+t1269475910
+s22280
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast.LinkFileList
+c000000004B9BCDB600000000000000D1
+t1268501942
+s209
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recastAppDelegate.o
+t1269475908
+s37544
+
+N/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/main.o
+t1268502693
+s5016
+
+N/Users/Ari/dev/f0recast/f0recast.icns
+c000000004BA80858000000000000BE9C
+t1269303384
+s48796
+
+N/Users/Ari/dev/f0recast/f0recastAppDelegate.h
+c000000004BA96625000000000000038C
+t1269392933
+s908
+i<Cocoa/Cocoa.h>
+i<BWToolkitFramework/BWToolkitFramework.h>
+i"MobileDevice.h"
+
+N/Users/Ari/dev/f0recast/f0recastAppDelegate.m
+c000000004BA9727A00000000000017CF
+t1269396090
+s6095
+i"f0recastAppDelegate.h"
+
+N/Users/Ari/dev/f0recast/f0recast_Prefix.pch
+c000000004B9BC8FC0000000000000093
+t1268500732
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/Ari/dev/f0recast/main.m
+c000000004B9BCD3B00000000000000F2
+t1268501819
+s242
+i<Cocoa/Cocoa.h>
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-aklnjdkkfyyicxdshhzfesxigtyr/f0recast_Prefix.pch.gch
+t1268501986
+s55559984
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ayefzuxsngktzuftbgezbnamsfen/f0recast_Prefix.pch.gch
+t1268502688
+s52822448
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-balzkgxyoecdwmdqtkgzvubfucou/f0recast_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-boogvqhdanpqqmgtoqycncdwlcni/f0recast_Prefix.pch.gch
+t1268502692
+s50053360
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-dfizukgpiafriwabkdyhwmfezfac/f0recast_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-duyrbsdkvmrxszbgrtpbuefbfuby/f0recast_Prefix.pch.gch
+t1268502688
+s49897776
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ehphmrztpejzocamrhnskeuylxog/f0recast_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-fctudqxrfyefeoesbupvncltasak/f0recast_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-fkxdqnremrjvacgjdbpsmvzrnrnt/f0recast_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-golxkbmprdkmxwezcrvtgrieounh/f0recast_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hfwopegwvmizjldbvbmygcsirwxa/f0recast_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hgqxhanxtxsxqpbepzndpfctvjny/f0recast_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hhmmgkbzidrtzzcgvlpbexhkdtcx/f0recast_Prefix.pch.gch
+t1268501992
+s52794960
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hhrznhjarownjmcfagmyxxvwyyge/f0recast_Prefix.pch.gch
+t1268501986
+s52922128
+
+N/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hjedzswmabrimebnkideeughbjvv/f0recast_Prefix.pch.gch
+t2
+s0
+
+Nf0recast-Info.plist
+c000000004BA8090B00000000000003D4
+t1269303563
+s980
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291171177#291171177#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recastAppDelegate.o /Users/Ari/dev/f0recast/f0recastAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291168696.942155
+e291168708.379105
+r1
+xCompileC
+xbuild/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recastAppDelegate.o
+x/Users/Ari/dev/f0recast/f0recastAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Ari/dev/f0recast/f0recastAppDelegate.m291168696#291168708#0(0"0(0#0#45"/Users/Ari/dev/f0recast/f0recastAppDelegate.m4300911832#1524"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/i386 -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -include /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ayefzuxsngktzuftbgezbnamsfen/f0recast_Prefix.pch -c /Users/Ari/dev/f0recast/f0recastAppDelegate.m -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recastAppDelegate.o0#
+
+CCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/i386/main.o /Users/Ari/dev/f0recast/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290195493.333224
+e290195494.110069
+r1
+xCompileC
+xbuild/f0recast.build/Release/f0recast.build/Objects-normal/i386/main.o
+x/Users/Ari/dev/f0recast/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Compile /Users/Ari/dev/f0recast/main.m290195493#290195494#0(0"0(0#0#30"/Users/Ari/dev/f0recast/main.m8029405159545332736#1494"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/i386 -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -include /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ayefzuxsngktzuftbgezbnamsfen/f0recast_Prefix.pch -c /Users/Ari/dev/f0recast/main.m -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/main.o0#
+
+CCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recastAppDelegate.o /Users/Ari/dev/f0recast/f0recastAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s291168710.150424
+e291168716.137599
+r1
+xCompileC
+xbuild/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recastAppDelegate.o
+x/Users/Ari/dev/f0recast/f0recastAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Ari/dev/f0recast/f0recastAppDelegate.m291168710#291168716#0(0"0(0#0#45"/Users/Ari/dev/f0recast/f0recastAppDelegate.m4300911832#1531"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/ppc -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -include /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-boogvqhdanpqqmgtoqycncdwlcni/f0recast_Prefix.pch -c /Users/Ari/dev/f0recast/f0recastAppDelegate.m -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recastAppDelegate.o0#
+
+CCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/main.o /Users/Ari/dev/f0recast/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s290195494.017663
+e290195494.239695
+r1
+xCompileC
+xbuild/f0recast.build/Release/f0recast.build/Objects-normal/ppc/main.o
+x/Users/Ari/dev/f0recast/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Compile /Users/Ari/dev/f0recast/main.m290195494#290195494#0(0"0(0#0#30"/Users/Ari/dev/f0recast/main.m4300911832#1501"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/ppc -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -include /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-boogvqhdanpqqmgtoqycncdwlcni/f0recast_Prefix.pch -c /Users/Ari/dev/f0recast/main.m -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recastAppDelegate.o /Users/Ari/dev/f0recast/f0recastAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s291168696.940765
+e291168708.334003
+r1
+xCompileC
+xbuild/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recastAppDelegate.o
+x/Users/Ari/dev/f0recast/f0recastAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Ari/dev/f0recast/f0recastAppDelegate.m291168696#291168708#0(0"0(0#0#45"/Users/Ari/dev/f0recast/f0recastAppDelegate.m4300911832#1530"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/x86_64 -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -include /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-duyrbsdkvmrxszbgrtpbuefbfuby/f0recast_Prefix.pch -c /Users/Ari/dev/f0recast/f0recastAppDelegate.m -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recastAppDelegate.o0#
+
+CCompileC build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/main.o /Users/Ari/dev/f0recast/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s290195492.512429
+e290195493.731453
+r1
+xCompileC
+xbuild/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/main.o
+x/Users/Ari/dev/f0recast/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Compile /Users/Ari/dev/f0recast/main.m290195492#290195493#0(0"0(0#0#30"/Users/Ari/dev/f0recast/main.m4300911832#1500"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/x86_64 -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -include /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-duyrbsdkvmrxszbgrtpbuefbfuby/f0recast_Prefix.pch -c /Users/Ari/dev/f0recast/main.m -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Ari/dev/f0recast/English.lproj/MainMenu.xib
+s291171177.874332
+e291171179.665026
+r1
+xCompileXIB
+x/Users/Ari/dev/f0recast/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/Ari/dev/f0recast/English.lproj/MainMenu.xib:579: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib291171177#291171179#0(137"/* com.apple.ibtool.document.notices *//Users/Ari/dev/f0recast/English.lproj/MainMenu.xib:579: note: This view is clipping its content.1(13@34"This view is clipping its content.291171179#18446744073709551615#0#0(6@50"/Users/Ari/dev/f0recast/English.lproj/MainMenu.xib291171171#579#0#579#0#0"0(0#0#50"/Users/Ari/dev/f0recast/English.lproj/MainMenu.xib4300911832#285"    cd /Users/Ari/dev/f0recast    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Ari/dev/f0recast/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s290194742.678597
+e290194745.460526
+r1
+xCopyStringsFile
+x/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings290194742#290194745#0(0"0(0#0#55"/Users/Ari/dev/f0recast/English.lproj/InfoPlist.strings4300911832#338"    cd /Users/Ari/dev/f0recast    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/f0recast.app/Contents/Resources/f0recast.icns f0recast.icns
+s290996516.216908
+e290996516.253489
+r1
+xCpResource
+xbuild/Release/f0recast.app/Contents/Resources/f0recast.icns
+xf0recast.icns
+lSLF07#2@18"Copy f0recast.icns290996516#290996516#0(0"0(0#0#37"/Users/Ari/dev/f0recast/f0recast.icns4300911832#308"    cd /Users/Ari/dev/f0recast    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Ari/dev/f0recast/f0recast.icns /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast normal "x86_64 i386 ppc"
+s291168716.479480
+e291168716.595205
+r1
+xCreateUniversalBinary
+x/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@97"CreateUniversalBinary build/Release/f0recast.app/Contents/MacOS/f0recast normal "x86_64 i386 ppc"291168716#291168716#0(0"0(0#0#39"/Users/Ari/dev/f0recast/x86_64 i386 ppc4300911832#432"    cd /Users/Ari/dev/f0recast    /usr/bin/lipo -create /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast -output /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast0#
+
+CGenerateDSYMFile /Users/Ari/dev/f0recast/build/Release/f0recast.app.dSYM /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast
+s291168716.595324
+e291168716.729609
+r1
+xGenerateDSYMFile
+x/Users/Ari/dev/f0recast/build/Release/f0recast.app.dSYM
+x/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast
+lSLF07#2@99"GenerateDSYMFile build/Release/f0recast.app.dSYM build/Release/f0recast.app/Contents/MacOS/f0recast291168716#291168716#0(0"0(0#0#74"/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast4300911832#197"    cd /Users/Ari/dev/f0recast    /Developer/usr/bin/dsymutil /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/MacOS/f0recast -o /Users/Ari/dev/f0recast/build/Release/f0recast.app.dSYM0#
+
+CLd /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast normal i386
+s291168708.379204
+e291168710.150132
+r1
+xLd
+x/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast
+xnormal
+xi386
+lSLF07#2@101"Link /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast291168708#291168710#0(0"0(0#0#0"4300911832#711"    cd /Users/Ari/dev/f0recast    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/Ari/dev/f0recast/build/Release -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -filelist /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MobileDevice -framework BWToolkitFramework -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/i386/f0recast0#
+
+CLd /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast normal ppc
+s291168716.137863
+e291168716.479348
+r1
+xLd
+x/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast
+xnormal
+xppc
+lSLF07#2@100"Link /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast291168716#291168716#0(0"0(0#0#0"4300911832#708"    cd /Users/Ari/dev/f0recast    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/Ari/dev/f0recast/build/Release -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -filelist /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MobileDevice -framework BWToolkitFramework -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/ppc/f0recast0#
+
+CLd /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast normal x86_64
+s291168708.334182
+e291168710.151605
+r1
+xLd
+x/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast
+xnormal
+xx86_64
+lSLF07#2@103"Link /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast291168708#291168710#0(0"0(0#0#0"4300911832#717"    cd /Users/Ari/dev/f0recast    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/Ari/dev/f0recast/build/Release -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -filelist /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MobileDevice -framework BWToolkitFramework -o /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/Objects-normal/x86_64/f0recast0#
+
+CPBXCp build/Release/f0recast.app/Contents/Frameworks/BWToolkitFramework.framework BWToolkitFramework.framework
+s290195494.273392
+e290195494.490253
+r1
+xPBXCp
+xbuild/Release/f0recast.app/Contents/Frameworks/BWToolkitFramework.framework
+xBWToolkitFramework.framework
+lSLF07#2@33"Copy BWToolkitFramework.framework290195494#290195494#0(0"0(0#0#52"/Users/Ari/dev/f0recast/BWToolkitFramework.framework4300911832#324"    cd /Users/Ari/dev/f0recast    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Ari/dev/f0recast/BWToolkitFramework.framework /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Info.plist f0recast-Info.plist
+s290996516.195223
+e290996516.215696
+r1
+xProcessInfoPlistFile
+x/Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Info.plist
+xf0recast-Info.plist
+lSLF07#2@27"Process f0recast-Info.plist290996516#290996516#0(0"0(0#0#43"/Users/Ari/dev/f0recast/f0recast-Info.plist4300911832#272"    cd /Users/Ari/dev/f0recast    builtin-infoPlistUtility f0recast-Info.plist -genpkginfo /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Ari/dev/f0recast/build/Release/f0recast.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-aklnjdkkfyyicxdshhzfesxigtyr/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290194746.962166
+e290194786.979364
+r1
+xProcessPCH
+x/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-aklnjdkkfyyicxdshhzfesxigtyr/f0recast_Prefix.pch.gch
+xf0recast_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile f0recast_Prefix.pch290194746#290194786#0(0"0(0#0#43"/Users/Ari/dev/f0recast/f0recast_Prefix.pch4300911832#1322"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/i386 -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -c /Users/Ari/dev/f0recast/f0recast_Prefix.pch -o /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-aklnjdkkfyyicxdshhzfesxigtyr/f0recast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ayefzuxsngktzuftbgezbnamsfen/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290195442.449547
+e290195488.504189
+r1
+xProcessPCH
+x/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ayefzuxsngktzuftbgezbnamsfen/f0recast_Prefix.pch.gch
+xf0recast_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile f0recast_Prefix.pch290195442#290195488#0(0"0(0#0#43"/Users/Ari/dev/f0recast/f0recast_Prefix.pch4300911832#1414"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/i386 -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -c /Users/Ari/dev/f0recast/f0recast_Prefix.pch -o /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ayefzuxsngktzuftbgezbnamsfen/f0recast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-balzkgxyoecdwmdqtkgzvubfucou/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-boogvqhdanpqqmgtoqycncdwlcni/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s290195488.479469
+e290195492.512083
+r1
+xProcessPCH
+x/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-boogvqhdanpqqmgtoqycncdwlcni/f0recast_Prefix.pch.gch
+xf0recast_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile f0recast_Prefix.pch290195488#290195492#0(0"0(0#0#43"/Users/Ari/dev/f0recast/f0recast_Prefix.pch4300911832#1422"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/ppc -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -c /Users/Ari/dev/f0recast/f0recast_Prefix.pch -o /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-boogvqhdanpqqmgtoqycncdwlcni/f0recast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-dfizukgpiafriwabkdyhwmfezfac/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-duyrbsdkvmrxszbgrtpbuefbfuby/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s290195442.448452
+e290195488.479253
+r1
+xProcessPCH
+x/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-duyrbsdkvmrxszbgrtpbuefbfuby/f0recast_Prefix.pch.gch
+xf0recast_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile f0recast_Prefix.pch290195442#290195488#0(0"0(0#0#43"/Users/Ari/dev/f0recast/f0recast_Prefix.pch4300911832#1418"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -F/Users/Ari/dev/f0recast -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/x86_64 -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -c /Users/Ari/dev/f0recast/f0recast_Prefix.pch -o /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-duyrbsdkvmrxszbgrtpbuefbfuby/f0recast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-ehphmrztpejzocamrhnskeuylxog/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-fctudqxrfyefeoesbupvncltasak/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-fkxdqnremrjvacgjdbpsmvzrnrnt/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-golxkbmprdkmxwezcrvtgrieounh/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hfwopegwvmizjldbvbmygcsirwxa/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hgqxhanxtxsxqpbepzndpfctvjny/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hhmmgkbzidrtzzcgvlpbexhkdtcx/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s290194786.979881
+e290194792.482473
+r1
+xProcessPCH
+x/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hhmmgkbzidrtzzcgvlpbexhkdtcx/f0recast_Prefix.pch.gch
+xf0recast_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile f0recast_Prefix.pch290194786#290194792#0(0"0(0#0#43"/Users/Ari/dev/f0recast/f0recast_Prefix.pch4300911832#1330"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/ppc -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -c /Users/Ari/dev/f0recast/f0recast_Prefix.pch -o /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hhmmgkbzidrtzzcgvlpbexhkdtcx/f0recast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hhrznhjarownjmcfagmyxxvwyyge/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s290194746.961109
+e290194787.849193
+r1
+xProcessPCH
+x/var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hhrznhjarownjmcfagmyxxvwyyge/f0recast_Prefix.pch.gch
+xf0recast_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile f0recast_Prefix.pch290194746#290194787#0(0"0(0#0#43"/Users/Ari/dev/f0recast/f0recast_Prefix.pch4300911832#1326"    cd /Users/Ari/dev/f0recast    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-generated-files.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-own-target-headers.hmap -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-all-target-headers.hmap -iquote /Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/f0recast-project-headers.hmap -F/Users/Ari/dev/f0recast/build/Release -F/Developer/SDKs/MacOSX10.4u.sdk/System/Library/PrivateFrameworks -I/Users/Ari/dev/f0recast/build/Release/include -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources/x86_64 -I/Users/Ari/dev/f0recast/build/f0recast.build/Release/f0recast.build/DerivedSources -c /Users/Ari/dev/f0recast/f0recast_Prefix.pch -o /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hhrznhjarownjmcfagmyxxvwyyge/f0recast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8G/8GyTmdPAEbKud+eJQvPVcE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/f0recast_Prefix-hjedzswmabrimebnkideeughbjvv/f0recast_Prefix.pch.gch f0recast_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Ari/dev/f0recast/build/Release/f0recast.app
+s291171179.666379
+e291171179.694824
+r1
+xTouch
+x/Users/Ari/dev/f0recast/build/Release/f0recast.app
+lSLF07#2@56"Touch /Users/Ari/dev/f0recast/build/Release/f0recast.app291171179#291171179#0(0"0(0#0#0"4300911832#104"    cd /Users/Ari/dev/f0recast    /usr/bin/touch -c /Users/Ari/dev/f0recast/build/Release/f0recast.app0#
+
